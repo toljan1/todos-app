@@ -2,15 +2,15 @@ My to-do app project was to create a responsive and user-friendly interface usin
 
 Technologies used:
 
-HTML5
-SCSS
-JS ES6
-React
+- HTML5
+- SCSS
+- JS ES6
+- React
 Preview: https://toljan1.github.io/2048-game/](https://toljan1.github.io/todos-app/)
 
 Execute the following commands to start:
 
-Fork the repository
-Clone the forked repo
-Run npm install to install the dependencies
-Run npm start to open project in browser
+- Fork the repository
+- Clone the forked repo
+- Run npm install to install the dependencies
+- Run npm start to open project in browser

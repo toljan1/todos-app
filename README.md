@@ -6,6 +6,7 @@ Technologies used:
 - SCSS
 - JS ES6
 - React
+
 Preview: https://toljan1.github.io/2048-game/](https://toljan1.github.io/todos-app/)
 
 Execute the following commands to start:

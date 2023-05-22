@@ -1,3 +1,5 @@
+import React from 'react';
+
 interface Props {
   setTitle: React.Dispatch<React.SetStateAction<string | undefined>>,
   title: string | undefined,

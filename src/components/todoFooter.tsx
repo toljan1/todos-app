@@ -1,4 +1,4 @@
-import { Dispatch, SetStateAction } from 'react';
+import React, { Dispatch, SetStateAction } from 'react';
 import classNames from 'classnames';
 import { FilterBy } from '../types/FilterBy';
 
